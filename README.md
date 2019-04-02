@@ -1,5 +1,9 @@
 # Play-Store-Comment-Scrapper
 
-Menggunakan library python Selenium dan beautifulsoup
+Scrapping data komentar dari playstore, pada kasus ini contoh komentar yang diambil adalah aplikasi bukalapak
 
-terdapat beberapa proses manual yang harus dilakukan
+- Menggunakan library python Selenium dan beautifulsoup
+- terdapat beberapa proses manual yang harus dilakukan
+
+# Contoh Data
+
